@@ -8,3 +8,8 @@ Simple code that is calculation the pi number according with monte-carlo method
 # ALGORTIHM EXPLANATION
 ---------------------------------------
 - niscodeexp.pdf 
+
+
+# DEMO
+---------------------------------------
+https://nis.softeka.ch/
