@@ -12,4 +12,4 @@ Simple code that is calculation the pi number according with monte-carlo method
 
 # DEMO
 ---------------------------------------
-<a href="https://nis.softeka.ch/" target="blank"> Demo </a>
+<a href="https://nis.softeka.ch/" target="_blank"> Demo </a>
